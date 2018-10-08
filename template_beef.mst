@@ -1,0 +1,27 @@
+{{#events}}
+<div class="timeline-wrapper">
+	<h2 class="timeline-time"><span>{{name}}</span></h2>
+	<dl class="timeline-series">
+
+		{{#postings}}
+		<dt id="{{id}}" class="timeline-event"><a>{{header}}</a></dt>
+		<dd class="timeline-event-content" id="{{id}}EX">
+			<h3>{{date}}</h3>
+			<br class="clear">
+			{{text}}
+			<br class="clear">
+			<div class="embeddedTweet">
+			{{{embeddedTweet}}}
+			</div>
+			{{#youtube}}
+			<iframe width="420" height="315"
+				src="{{youtube}}">
+			</iframe>
+			{{/youtube}}
+	
+		<br class="clear">
+		</dd><!-- /.timeline-event-content -->
+		{{/postings}}
+</dl><!-- /.timeline-series -->
+</div><!-- /.timeline-wrapper -->
+{{/events}}

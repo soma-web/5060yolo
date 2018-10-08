@@ -1,0 +1,112 @@
+{
+	"test": "holla",
+	"events": [
+	{
+			"name": "GAMESCOM 2018",
+			"postings": [
+			{
+				"id": "1",
+				"date": "23.8.2018",
+				"header": "23.8.2018 - 18:59",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\"><p lang=\"und\" dir=\"ltr\">.<a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/t.co\/n64cB5g3GQ\">pic.twitter.com\/n64cB5g3GQ<\/a><\/p>&mdash; Andi \uD83D\uDD1C MAG Erfurt (@AndiSPunkt) <a href=\"https:\/\/twitter.com\/AndiSPunkt\/status\/1032673687865106432?ref_src=twsrc%5Etfw\">August 23, 2018<\/a><\/blockquote> <script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>"
+			},
+			{
+				"id": "2",
+				"date": "23.8.2018",
+				"header": "23.8.2018 - 19:07",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"und\" dir=\"ltr\"> <a href=\"https:\/\/t.co\/UcXdEgAaVe\">pic.twitter.com\/UcXdEgAaVe<\/a><\/p>&mdash; Sluggerfly (@SluggerflyDev) <a href=\"https:\/\/twitter.com\/SluggerflyDev\/status\/1032675617525977090?ref_src=twsrc%5Etfw\">23. August 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "3",
+				"date": "23.8.2018",
+				"header": "23.8.2018 - 19:12",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"en\" dir=\"ltr\">Jokes on you <a href=\"https:\/\/t.co\/LDBOjAT2tC\">pic.twitter.com\/LDBOjAT2tC<\/a><\/p>&mdash; Andi \uD83D\uDD1C MAG Erfurt (@AndiSPunkt) <a href=\"https:\/\/twitter.com\/AndiSPunkt\/status\/1032677011469361154?ref_src=twsrc%5Etfw\">23. August 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "33",
+				"date": "23.8.2018",
+				"header": "23.8.2018 - 19:15",
+				"text": "Es wurde versucht den Beef abzuwenden",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"und\" dir=\"ltr\"> <a href=\"https:\/\/t.co\/pejczkorkh\">pic.twitter.com\/pejczkorkh<\/a><\/p>&mdash; Andreas (@AndiDev_) <a href=\"https:\/\/twitter.com\/AndiDev_\/status\/1032677824249901061?ref_src=twsrc%5Etfw\">23. August 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "4",
+				"date": "23.8.2018",
+				"header": "23.8.2018 - 19:18",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"und\" dir=\"ltr\"> <a href=\"https:\/\/t.co\/DeHOTlZ1gT\">pic.twitter.com\/DeHOTlZ1gT<\/a><\/p>&mdash; Sluggerfly (@SluggerflyDev) <a href=\"https:\/\/twitter.com\/SluggerflyDev\/status\/1032678546114785280?ref_src=twsrc%5Etfw\">23. August 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "5",
+				"date": "23.8.2018",
+				"header": "23.8.2018 - 19:32",
+				"text": "Das ganze wird größer und größer",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"und\" dir=\"ltr\"><a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/t.co\/vsKnuBkMY4\">pic.twitter.com\/vsKnuBkMY4<\/a><\/p>&mdash; Steve (@stevecrse) <a href=\"https:\/\/twitter.com\/stevecrse\/status\/1032681940783165440?ref_src=twsrc%5Etfw\">23. August 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "6",
+				"date": "23.8.2018",
+				"header": "23.8.2018 - 19:32",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"und\" dir=\"ltr\">.<a href=\"https:\/\/twitter.com\/fisHC0p?ref_src=twsrc%5Etfw\">@fisHC0p<\/a> <a href=\"https:\/\/t.co\/yXKaFE9seF\">pic.twitter.com\/yXKaFE9seF<\/a><\/p>&mdash; Steve (@stevecrse) <a href=\"https:\/\/twitter.com\/stevecrse\/status\/1032999175187836929?ref_src=twsrc%5Etfw\">24. August 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "7",
+				"date": "24.8.2018",
+				"header": "24.8.2018 - 17:45",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"und\" dir=\"ltr\"> <a href=\"https:\/\/t.co\/WpGt3hqPZr\">pic.twitter.com\/WpGt3hqPZr<\/a><\/p>&mdash; Utz Stauder \uD83C\uDF56 @MAG_Erfurt (@utzstauder) <a href=\"https:\/\/twitter.com\/utzstauder\/status\/1033017476903325696?ref_src=twsrc%5Etfw\">24. August 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "8",
+				"date": "25.8.2018",
+				"header": "25.8.2018 - 12:58",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"und\" dir=\"ltr\"> <a href=\"https:\/\/t.co\/thRanD5jBP\">pic.twitter.com\/thRanD5jBP<\/a><\/p>&mdash; Steve (@stevecrse) <a href=\"https:\/\/twitter.com\/stevecrse\/status\/1033307510118273029?ref_src=twsrc%5Etfw\">25. August 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "9",
+				"date": "25.8.2018",
+				"header": "25.8.2018 - 13:42",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"und\" dir=\"ltr\"> <a href=\"https:\/\/t.co\/V6tEew5X8M\">pic.twitter.com\/V6tEew5X8M<\/a><\/p>&mdash; Utz Stauder \uD83C\uDF56 @MAG_Erfurt (@utzstauder) <a href=\"https:\/\/twitter.com\/utzstauder\/status\/1033318700567461888?ref_src=twsrc%5Etfw\">25. August 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "10",
+				"date": "26.8.2018",
+				"header": "26.8.2018 - 15:28",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Das letzte Wort geh\u00F6rt immer den Eventorganisatoren! <a href=\"https:\/\/t.co\/HEmtCEPXSJ\">pic.twitter.com\/HEmtCEPXSJ<\/a><\/p>&mdash; Chris Wulf @ MAG Erfurt (@chriswulf_) <a href=\"https:\/\/twitter.com\/chriswulf_\/status\/1033707876127309824?ref_src=twsrc%5Etfw\">26. August 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			}
+			]
+	},
+	{
+			"name": "SEPTEMBER 2018",
+			"postings": [
+			{
+				"id": "20",
+				"date": "23.8.2018",
+				"header": "23.8.2018 - 18:59",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\"><p lang=\"und\" dir=\"ltr\">.<a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/t.co\/n64cB5g3GQ\">pic.twitter.com\/n64cB5g3GQ<\/a><\/p>&mdash; Andi \uD83D\uDD1C MAG Erfurt (@AndiSPunkt) <a href=\"https:\/\/twitter.com\/AndiSPunkt\/status\/1032673687865106432?ref_src=twsrc%5Etfw\">August 23, 2018<\/a><\/blockquote> <script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>"
+			}
+			]
+	},
+	{
+			"name": "MAG 2018",
+			"date": "11 - 2 - 2018",
+			"postings": [{
+				"id": "113",
+				"date": "11 - 9 - 2018",
+				"header": "paosdasdio",
+				"text": "sdiaiduaiodul aodias daosdao diasd oiasd",
+				"media": "/pix.jpg",
+				"youtube": "https://www.youtube.com/embed/2oLiUvO7jQ8",
+				"embedded-media": "https://embedded-link.de"
+			}]
+	}
+	]
+}

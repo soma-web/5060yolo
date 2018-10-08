@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Timeliner.js Demo</title>
+	<link rel="canonical" href="https://technotarek.com/timeliner/timeliner.html" />
+	<link rel="stylesheet" href="css/demo.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/timeliner.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/custom.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="inc/colorbox.css" type="text/css" media="screen">
+	
+</head>
+<body>
+	<div class="container">
+		<h1>#deutscherentwicklerbeef</h1>
+		<div ></div>
+		<div id="timeline" class="timeline-container" >
+
+			<button class="timeline-toggle">+ expand all</button>
+
+			<br class="clear">
+			<div id="target">
+
+			</div>
+
+			<br class="clear">
+		</div><!-- /#timelineContainer -->
+
+	</div><!-- /.container -->
+
+
+	<!-- GLOBAL CORE SCRIPTS -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" src="inc/colorbox.js"></script>
+	<script type="text/javascript" src="js/timeliner.js"></script>
+	<script type="text/javascript" src="js/mustache.js"></script>
+	
+	<script>
+		
+		
+		function generateTimeline() {
+			$.timeliner({});
+			$.timeliner({
+				timelineContainer: '#timeline-js',
+				timelineSectionMarker: '.milestone',
+				oneOpen: true,
+				startState: 'flat',
+				expandAllText: '+ Show All',
+				collapseAllText: '- Hide All'
+			});
+			// Colorbox Modal
+			$(".CBmodal").colorbox({inline:true, initialWidth:100, maxWidth:682, initialHeight:100, transition:"elastic",speed:750});
+		}
+		
+		function loadUser() {
+			$.get('template_beef.mst', function(template) {
+				$.get("beef.data", function( data ) {
+					console.log(data);
+					var jObj = JSON.parse(data);
+					var rendered = Mustache.render(template, jObj);				
+					$('#target').html(rendered);
+					console.log(template);
+					console.log(rendered);
+				});
+				
+			});
+		}
+		
+		$(document).ready(function() {
+			loadUser();
+			generateTimeline();
+		});
+	</script>
+
+</body>
+</html>
