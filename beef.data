@@ -85,28 +85,287 @@
 	},
 	{
 			"name": "SEPTEMBER 2018",
-			"postings": [
+			"postings": [			
 			{
 				"id": "20",
-				"date": "23.8.2018",
-				"header": "23.8.2018 - 18:59",
+				"date": "3.9.2018",
+				"header": "3.9.2018 - 15:20",
 				"text": "",				
-				"embeddedTweet": "<blockquote class=\"twitter-tweet\"><p lang=\"und\" dir=\"ltr\">.<a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/t.co\/n64cB5g3GQ\">pic.twitter.com\/n64cB5g3GQ<\/a><\/p>&mdash; Andi \uD83D\uDD1C MAG Erfurt (@AndiSPunkt) <a href=\"https:\/\/twitter.com\/AndiSPunkt\/status\/1032673687865106432?ref_src=twsrc%5Etfw\">August 23, 2018<\/a><\/blockquote> <script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>"
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"und\" dir=\"ltr\"><a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a><br> <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/fisHC0p?ref_src=twsrc%5Etfw\">@fisHC0p<\/a> <a href=\"https:\/\/twitter.com\/chriswulf_?ref_src=twsrc%5Etfw\">@chriswulf_<\/a> <a href=\"https:\/\/t.co\/tzbZIVgMZh\">pic.twitter.com\/tzbZIVgMZh<\/a><\/p>&mdash; Sluggerfly (@SluggerflyDev) <a href=\"https:\/\/twitter.com\/SluggerflyDev\/status\/1036604773850644481?ref_src=twsrc%5Etfw\">September 3, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},		
+			{
+				"id": "21",
+				"date": "5.9.2018",
+				"header": "5.9.2018 - 10:18",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Heute 12 Uhr, ihr Ficker <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/pKJSHpSZQD\">pic.twitter.com\/pKJSHpSZQD<\/a><\/p>&mdash; Backwoods (@tweetingwoods) <a href=\"https:\/\/twitter.com\/tweetingwoods\/status\/1037253602291666944?ref_src=twsrc%5Etfw\">5. September 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "22",
+				"date": "5.9.2018",
+				"header": "5.9.2018 - 12:00",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"und\" dir=\"ltr\"><a href=\"https:\/\/t.co\/kV4exezxGx\">https:\/\/t.co\/kV4exezxGx<\/a><br><br>rip <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> <a href=\"https:\/\/twitter.com\/fisHC0p?ref_src=twsrc%5Etfw\">@fisHC0p<\/a> <a href=\"https:\/\/twitter.com\/chriswulf_?ref_src=twsrc%5Etfw\">@chriswulf_<\/a> <a href=\"https:\/\/t.co\/zFRO4DHMrA\">pic.twitter.com\/zFRO4DHMrA<\/a><\/p>&mdash; Backwoods (@tweetingwoods) <a href=\"https:\/\/twitter.com\/tweetingwoods\/status\/1037279353107869696?ref_src=twsrc%5Etfw\">September 5, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "23",
+				"date": "5.9.2018",
+				"header": "5.9.2018 - 15:54",
+				"text": "",
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"en\" dir=\"ltr\">Behind the scenes.<a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/oa7gHyV9d7\">pic.twitter.com\/oa7gHyV9d7<\/a><\/p>&mdash; Matt Moiselle (@mattmoiselle) <a href=\"https:\/\/twitter.com\/mattmoiselle\/status\/1037338125088043008?ref_src=twsrc%5Etfw\">5. September 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "24",
+				"date": "5.9.2018",
+				"header": "5.9.2018 - 17:29",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Keine Sorge, wir haben niemand vergessen! <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/aNlZ5HTnLt\">pic.twitter.com\/aNlZ5HTnLt<\/a><\/p>&mdash; Matt Moiselle (@mattmoiselle) <a href=\"https:\/\/twitter.com\/mattmoiselle\/status\/1037362187612966915?ref_src=twsrc%5Etfw\">5. September 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "25",
+				"date": "10.9.2018",
+				"header": "10.9.2018 - 16:15",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Ich sollte vorbei kommen um zu erkl\u00E4ren warum <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> stinkt oder? <a href=\"https:\/\/t.co\/cvV53JFU5c\">https:\/\/t.co\/cvV53JFU5c<\/a><\/p>&mdash; Andreas (@AndiDev_) <a href=\"https:\/\/twitter.com\/AndiDev_\/status\/1039155323200831489?ref_src=twsrc%5Etfw\">September 10, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "26",
+				"date": "27.9.2018",
+				"header": "27.9.2018 - 10:43",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-cards=\"hidden\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Manchmal braucht man einfach ein kleines bisschen extra Motivation. (Keine Sorge, wir haben Plastik untergelegt, damit unsere Schuhe nicht schmutzig werden) <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/H58GnCI9Mg\">pic.twitter.com\/H58GnCI9Mg<\/a><\/p>&mdash; Ludopium \uD83D\uDD79\uFE0F Vectronom (@ludopium) <a href=\"https:\/\/twitter.com\/ludopium\/status\/1045232471347007488?ref_src=twsrc%5Etfw\">September 27, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "27",
+				"date": "27.9.2018",
+				"header": "27.9.2018 - 19:18",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" data-cards=\"hidden\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Besonderer Dank gilt nat\u00FCrlich unseren Mitt\u00E4nzerInnen <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> <a href=\"https:\/\/twitter.com\/MassiveMiniteam?ref_src=twsrc%5Etfw\">@MassiveMiniteam<\/a> and <a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/hHdyfSAo5i\">pic.twitter.com\/hHdyfSAo5i<\/a><\/p>&mdash; Utz Stauder \uD83C\uDF56 @ludopium (@utzstauder) <a href=\"https:\/\/twitter.com\/utzstauder\/status\/1045362057196048385?ref_src=twsrc%5Etfw\">September 27, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "28",
+				"date": "29.9.2018",
+				"header": "29.9.2018 - 15:42",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"und\" dir=\"ltr\"><a href=\"https:\/\/twitter.com\/mattmoiselle?ref_src=twsrc%5Etfw\">@mattmoiselle<\/a> is <a href=\"https:\/\/twitter.com\/hashtag\/sad?src=hash&amp;ref_src=twsrc%5Etfw\">#sad<\/a> \uD83D\uDE41<a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/EGXBerlin?ref_src=twsrc%5Etfw\">@EGXBerlin<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/Vectronom?src=hash&amp;ref_src=twsrc%5Etfw\">#Vectronom<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/3CXS5v5iMV\">pic.twitter.com\/3CXS5v5iMV<\/a><\/p>&mdash; Utz Stauder \uD83C\uDF56 @ludopium (@utzstauder) <a href=\"https:\/\/twitter.com\/utzstauder\/status\/1046032583346262016?ref_src=twsrc%5Etfw\">September 29, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "29",
+				"date": "29.9.2018",
+				"header": "29.9.2018 - 19:40",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Kurz vor der <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> gab es leider einen unerfreulichen Vorfall in unserem Lager.<br>\uD83D\uDE21\uD83E\uDDD0\uD83D\uDD28<a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/tKhApPoUKN\">pic.twitter.com\/tKhApPoUKN<\/a><\/p>&mdash; IndieArenaBooth (@IndieArenaBooth) <a href=\"https:\/\/twitter.com\/IndieArenaBooth\/status\/1046092278866022401?ref_src=twsrc%5Etfw\">September 29, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "30",
+				"date": "30.9.2018",
+				"header": "30.9.2018 - 20:03",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Morgen sollte es nach Erfurt gehen. Heute sollten die letzten Dinge eingeladen werden.... und dann das...<br><br>Waren es die  <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> oder <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a>?<br>\uD83D\uDCA9\uD83D\uDCA9<br><br>Der Indie Arena Booth auf der <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> steht auf der Kippe. Danke <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/3L2PL28Vl9\">pic.twitter.com\/3L2PL28Vl9<\/a><\/p>&mdash; IndieArenaBooth (@IndieArenaBooth) <a href=\"https:\/\/twitter.com\/IndieArenaBooth\/status\/1046460520780496897?ref_src=twsrc%5Etfw\">September 30, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			}
+			]
+	},
+	
+	{
+			"name": "OKTOBER 2018",
+			"postings": [			
+			{
+				"id": "40",
+				"date": "1.10.2018",
+				"header": "1.10.2018 - 12:01",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Heute - die Nominierten der Kategorie &quot;Mehr kann man nicht erwarten&quot;. <br>Mutig, dass sie ausstellen.<a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/IAB2018?src=hash&amp;ref_src=twsrc%5Etfw\">#IAB2018<\/a> <a href=\"https:\/\/t.co\/YEFK77Ued2\">pic.twitter.com\/YEFK77Ued2<\/a><\/p>&mdash; IndieArenaBooth (@IndieArenaBooth) <a href=\"https:\/\/twitter.com\/IndieArenaBooth\/status\/1046701560179363840?ref_src=twsrc%5Etfw\">1. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "41",
+				"date": "1.10.2018",
+				"header": "1.10.2018 - 13:00",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Hier unser Nominierter, bei dem das \u201CNichtk\u00F6nnen\u201D bereits im Spielnamen steht - die <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> mit \u2018Can&#39;t Drive This\u2019. <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/IAB2018?src=hash&amp;ref_src=twsrc%5Etfw\">#IAB2018<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/t.co\/6ZwnV8t1dV\">pic.twitter.com\/6ZwnV8t1dV<\/a><\/p>&mdash; IndieArenaBooth (@IndieArenaBooth) <a href=\"https:\/\/twitter.com\/IndieArenaBooth\/status\/1046716563993366528?ref_src=twsrc%5Etfw\">October 1, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "42",
+				"date": "3.10.2018",
+				"header": "3.10.2018 - 14:00",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">\u201CBesondere\u201D Spiele von \u201Cbesonderen\u201D Entwicklern - es reicht ein fl\u00FCchtiger Blick auf <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> und \u2018Ben and Ed - Blood Party\u2019. <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/IAB2018?src=hash&amp;ref_src=twsrc%5Etfw\">#IAB2018<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/t.co\/8lDiaH8Uhu\">pic.twitter.com\/8lDiaH8Uhu<\/a><\/p>&mdash; IndieArenaBooth (@IndieArenaBooth) <a href=\"https:\/\/twitter.com\/IndieArenaBooth\/status\/1046731615664312322?ref_src=twsrc%5Etfw\">October 1, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "43",
+				"date": "1.10.2018",
+				"header": "1.10.2018 - 15:00",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Bisher dachten wir nicht, dass man das Sprichwort \u201CWeniger ist mehr\u201D auch \u00FCbertreiben kann. Und dann sahen wir \u2018Vectronom\u2019 von <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a>. <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/IAB2018?src=hash&amp;ref_src=twsrc%5Etfw\">#IAB2018<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/t.co\/qggLIF5jlm\">pic.twitter.com\/qggLIF5jlm<\/a><\/p>&mdash; IndieArenaBooth (@IndieArenaBooth) <a href=\"https:\/\/twitter.com\/IndieArenaBooth\/status\/1046746701833412609?ref_src=twsrc%5Etfw\">October 1, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "44",
+				"date": "1.10.2018",
+				"header": "0.10.2018 - 16:00",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Auch wenn man von <a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> selbst vielleicht nicht viel erwartet, haben sie immerhin in \u2018Unforeseen Incidents\u2019 gezeigt, dass sie wissen, wie man ein Multitool benutzt. <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/IAB2018?src=hash&amp;ref_src=twsrc%5Etfw\">#IAB2018<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/t.co\/DJ3MR8KnTX\">pic.twitter.com\/DJ3MR8KnTX<\/a><\/p>&mdash; IndieArenaBooth (@IndieArenaBooth) <a href=\"https:\/\/twitter.com\/IndieArenaBooth\/status\/1046761887080296453?ref_src=twsrc%5Etfw\">October 1, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "45",
+				"date": "4.10.2018",
+				"header": "4.10.2018 - 11:00",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Na, und was macht man mit Streith\u00E4hnen? Richtig. Man macht sie alle zu Nachbarn am <a href=\"https:\/\/twitter.com\/IndieArenaBooth?ref_src=twsrc%5Etfw\">@IndieArenaBooth<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> <br><br>Aber pst... wissen sie noch nicht. <a href=\"https:\/\/t.co\/4oerrojqjW\">pic.twitter.com\/4oerrojqjW<\/a><\/p>&mdash; Andreas (@AndiDev_) <a href=\"https:\/\/twitter.com\/AndiDev_\/status\/1047620531065933824?ref_src=twsrc%5Etfw\">October 3, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "46",
+				"date": "4.10.2018",
+				"header": "4.10.2018 - 13:26",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Auf der Reise noch ein bisschen Networking <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/unforseenincidents?src=hash&amp;ref_src=twsrc%5Etfw\">#unforseenincidents<\/a> <a href=\"https:\/\/twitter.com\/MassiveMiniteam?ref_src=twsrc%5Etfw\">@MassiveMiniteam<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/spitlings?src=hash&amp;ref_src=twsrc%5Etfw\">#spitlings<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/vectronom?src=hash&amp;ref_src=twsrc%5Etfw\">#vectronom<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/twitter.com\/IndieArenaBooth?ref_src=twsrc%5Etfw\">@IndieArenaBooth<\/a> <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/twitter.com\/AndiDev_?ref_src=twsrc%5Etfw\">@AndiDev_<\/a> <a href=\"https:\/\/t.co\/chsFggbBQH\">pic.twitter.com\/chsFggbBQH<\/a><\/p>&mdash; Utz Stauder \uD83C\uDF56 @ludopium (@utzstauder) <a href=\"https:\/\/twitter.com\/utzstauder\/status\/1047810181051158528?ref_src=twsrc%5Etfw\">October 4, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
 			}
 			]
 	},
 	{
 			"name": "MAG 2018",
 			"date": "11 - 2 - 2018",
-			"postings": [{
-				"id": "113",
-				"date": "11 - 9 - 2018",
-				"header": "paosdasdio",
-				"text": "sdiaiduaiodul aodias daosdao diasd oiasd",
-				"media": "/pix.jpg",
-				"youtube": "https://www.youtube.com/embed/2oLiUvO7jQ8",
-				"embedded-media": "https://embedded-link.de"
-			}]
+			"postings": [
+			{
+				"id": "50",
+				"date": "4.10.2018",
+				"header": "4.10.2018 - 17:46",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"en\" dir=\"ltr\">Nices Setup <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <br>I like <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/J8gFsNHCmO\">pic.twitter.com\/J8gFsNHCmO<\/a><\/p>&mdash; Marcus B\u00E4umer (@mrcsbmr) <a href=\"https:\/\/twitter.com\/mrcsbmr\/status\/1047875562759475200?ref_src=twsrc%5Etfw\">October 4, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "51",
+				"date": "5.10.2018",
+				"header": "5.10.2018 - 10:25",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-partner=\"tweetdeck\"><p lang=\"de\" dir=\"ltr\">Irgendjemand hat uns vollgeschissene Shirts zukommen lassen :(<a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/magerfurt?src=hash&amp;ref_src=twsrc%5Etfw\">#magerfurt<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/twitter.com\/IndieArenaBooth?ref_src=twsrc%5Etfw\">@IndieArenaBooth<\/a> <a href=\"https:\/\/t.co\/p1MoRpRfJo\">pic.twitter.com\/p1MoRpRfJo<\/a><\/p>&mdash; Backwoods (@tweetingwoods) <a href=\"https:\/\/twitter.com\/tweetingwoods\/status\/1048127134588444674?ref_src=twsrc%5Etfw\">October 5, 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "52",
+				"date": "5.10.2018",
+				"header": "5.10.2018 - 11:54",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Wir warten.<a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/NpCungeuVx\">pic.twitter.com\/NpCungeuVx<\/a><\/p>&mdash; Backwoods (@tweetingwoods) <a href=\"https:\/\/twitter.com\/tweetingwoods\/status\/1048149396326666240?ref_src=twsrc%5Etfw\">5. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "53",
+				"date": "5.10.2018",
+				"header": "5.10.2018 - 12:00",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Viel Spa\u00DF mit euren neuen Shirts <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a><a href=\"https:\/\/twitter.com\/hashtag\/DeutscherEntwicklerBeef?src=hash&amp;ref_src=twsrc%5Etfw\">#DeutscherEntwicklerBeef<\/a><a href=\"https:\/\/t.co\/0cm9HlumXg\">https:\/\/t.co\/0cm9HlumXg<\/a><\/p>&mdash; Pixel Maniacs\u00AE (@pixel_maniacs) <a href=\"https:\/\/twitter.com\/pixel_maniacs\/status\/1048150882146308097?ref_src=twsrc%5Etfw\">5. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "54",
+				"date": "5.10.2018",
+				"header": "5.10.2018 - 13:27",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Der neue <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> Praktikant sieht komisch aus.<a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/magerfurt?src=hash&amp;ref_src=twsrc%5Etfw\">#magerfurt<\/a> <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/IndieArenaBooth?ref_src=twsrc%5Etfw\">@IndieArenaBooth<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/t.co\/vBy6bB7FLG\">pic.twitter.com\/vBy6bB7FLG<\/a><\/p>&mdash; Marcus B\u00E4umer (@mrcsbmr) <a href=\"https:\/\/twitter.com\/mrcsbmr\/status\/1048172708985536513?ref_src=twsrc%5Etfw\">5. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "54",
+				"date": "5.10.2018",
+				"header": "5.10.2018 - 13:34",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Auf der <a href=\"https:\/\/twitter.com\/hashtag\/MagErfurt?src=hash&amp;ref_src=twsrc%5Etfw\">#MagErfurt<\/a> kommen erschreckende Details \u00FCber die <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> ans Licht. Ein Praktikant redet Klartext. <a href=\"https:\/\/t.co\/adS4XruzCO\">pic.twitter.com\/adS4XruzCO<\/a><\/p>&mdash; Sluggerfly (@SluggerflyDev) <a href=\"https:\/\/twitter.com\/SluggerflyDev\/status\/1048174597412212737?ref_src=twsrc%5Etfw\">5. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "55",
+				"date": "5.10.2018",
+				"header": "5.10.2018 - 16:07",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"eu\" dir=\"ltr\"><a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> eskaliert - Utz tot?<a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/IndieArenaBooth?ref_src=twsrc%5Etfw\">@IndieArenaBooth<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/magerfurt?src=hash&amp;ref_src=twsrc%5Etfw\">#magerfurt<\/a> <a href=\"https:\/\/t.co\/oy4caOojkE\">pic.twitter.com\/oy4caOojkE<\/a><\/p>&mdash; Backwoods (@tweetingwoods) <a href=\"https:\/\/twitter.com\/tweetingwoods\/status\/1048213102154715141?ref_src=twsrc%5Etfw\">5. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "56",
+				"date": "5.10.2018",
+				"header": "5.10.2018 - 16:28",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\"><a href=\"https:\/\/twitter.com\/LeadFollowGame?ref_src=twsrc%5Etfw\">@LeadFollowGame<\/a> Wir hoffen f\u00FCr euch, dass ihr wisst worauf ihr euch einlasst. <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/Iwega8ql8i\">pic.twitter.com\/Iwega8ql8i<\/a><\/p>&mdash; Sluggerfly (@SluggerflyDev) <a href=\"https:\/\/twitter.com\/SluggerflyDev\/status\/1048218334154641408?ref_src=twsrc%5Etfw\">5. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "57",
+				"date": "5.10.2018",
+				"header": "5.10.2018 - 18:18",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Das war\u2019s dann wohl. Tsch\u00FCss, <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> Sind halt immer die gleichen, die auffallen. <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/RwPSIUJZb5\">pic.twitter.com\/RwPSIUJZb5<\/a><\/p>&mdash; Utz Stauder \uD83C\uDF56 @ludopium (@utzstauder) <a href=\"https:\/\/twitter.com\/utzstauder\/status\/1048246046487404544?ref_src=twsrc%5Etfw\">5. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "58",
+				"date": "5.10.2018",
+				"header": "5.10.2018 - 18:49",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Das Rennen ist gestartet. Wer holt den Titel auf der <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a>?<a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> oder doch <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a>? <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/O1MmgBM7cC\">pic.twitter.com\/O1MmgBM7cC<\/a><\/p>&mdash; Utz Stauder \uD83C\uDF56 @ludopium (@utzstauder) <a href=\"https:\/\/twitter.com\/utzstauder\/status\/1048253735732961281?ref_src=twsrc%5Etfw\">5. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "59a",
+				"date": "6.10.2018",
+				"header": "6.10.2018 - 11:18",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Der <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> ger\u00E4t au\u00DFer Kontrolle. Mittlerweile greifen die Beteiligten zu k\u00F6rperlicher Gewalt. <a href=\"https:\/\/t.co\/dFOJbtz2bw\">pic.twitter.com\/dFOJbtz2bw<\/a><\/p>&mdash; Sluggerfly (@SluggerflyDev) <a href=\"https:\/\/twitter.com\/SluggerflyDev\/status\/1048502774420447232?ref_src=twsrc%5Etfw\">6. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "59",
+				"date": "6.10.2018",
+				"header": "6.10.2018 - 18:09",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"tl\" dir=\"ltr\">Gnihihi. <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/IndieArenaBooth?ref_src=twsrc%5Etfw\">@IndieArenaBooth<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/t.co\/4GoAqVr36W\">pic.twitter.com\/4GoAqVr36W<\/a><\/p>&mdash; Marcus B\u00E4umer (@mrcsbmr) <a href=\"https:\/\/twitter.com\/mrcsbmr\/status\/1048606162608947200?ref_src=twsrc%5Etfw\">6. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "60",
+				"date": "6.10.2018",
+				"header": "6.10.2018 - 20:53",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">.<a href=\"https:\/\/twitter.com\/AndiDev_?ref_src=twsrc%5Etfw\">@AndiDev_<\/a> F\u00FCr dich, als Erinnerung. <a href=\"https:\/\/twitter.com\/hashtag\/indiestrolche?src=hash&amp;ref_src=twsrc%5Etfw\">#indiestrolche<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/epwr9Ell9J\">pic.twitter.com\/epwr9Ell9J<\/a><\/p>&mdash; Sluggerfly (@SluggerflyDev) <a href=\"https:\/\/twitter.com\/SluggerflyDev\/status\/1048647569914716160?ref_src=twsrc%5Etfw\">6. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "61",
+				"date": "7.10.2018",
+				"header": "7.10.2018 - 16:01",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Tsch\u00FCss, <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a>! Die <a href=\"https:\/\/twitter.com\/hashtag\/MAGerfurt?src=hash&amp;ref_src=twsrc%5Etfw\">#MAGerfurt<\/a> war dann wohl die letzte Messe. <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/t.co\/5N7N2NTjcT\">pic.twitter.com\/5N7N2NTjcT<\/a><\/p>&mdash; Utz Stauder \uD83C\uDF56 @ludopium (@utzstauder) <a href=\"https:\/\/twitter.com\/utzstauder\/status\/1048936450128052225?ref_src=twsrc%5Etfw\">7. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "62",
+				"date": "7.10.2018",
+				"header": "7.10.2018 - 17:09",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Danke f\u00FCr den netten Abschied ihr Penner! <a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/MassiveMiniteam?ref_src=twsrc%5Etfw\">@MassiveMiniteam<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/indiestrolche?src=hash&amp;ref_src=twsrc%5Etfw\">#indiestrolche<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/MAGErfurt?src=hash&amp;ref_src=twsrc%5Etfw\">#MAGErfurt<\/a> <a href=\"https:\/\/t.co\/iOI45XnBPU\">pic.twitter.com\/iOI45XnBPU<\/a><\/p>&mdash; Sluggerfly (@SluggerflyDev) <a href=\"https:\/\/twitter.com\/SluggerflyDev\/status\/1048953357136740352?ref_src=twsrc%5Etfw\">7. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "63",
+				"date": "8.10.2018",
+				"header": "8.10.2018 - 09:14",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Erwischt! Nach <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> und <a href=\"https:\/\/twitter.com\/hashtag\/indieshutdown?src=hash&amp;ref_src=twsrc%5Etfw\">#indieshutdown<\/a> geben wir uns hiermit offiziell zu erkennen: Wir sind die Indiestrolche und ab jetzt wird&#39;s frech.<a href=\"https:\/\/twitter.com\/hashtag\/indiestrolche?src=hash&amp;ref_src=twsrc%5Etfw\">#indiestrolche<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/magerfurt?src=hash&amp;ref_src=twsrc%5Etfw\">#magerfurt<\/a> <a href=\"https:\/\/twitter.com\/IndieArenaBooth?ref_src=twsrc%5Etfw\">@IndieArenaBooth<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/twitter.com\/AndiDev_?ref_src=twsrc%5Etfw\">@AndiDev_<\/a> <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/t.co\/XYKPyipEIc\">pic.twitter.com\/XYKPyipEIc<\/a><\/p>&mdash; Indiestrolche (@indiestrolche) <a href=\"https:\/\/twitter.com\/indiestrolche\/status\/1049196346870259712?ref_src=twsrc%5Etfw\">8. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			}
+			]
+	},
+	{
+			"name": "OKTOBER 2018 #2",
+			"date": "11 - 2 - 2018",
+			"postings": [
+			{
+				"id": "70",
+				"date": "8.10.2018",
+				"header": "8.10.2018 - 15:23",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Ich wollte schon immer mal was zum <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> sagen <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> <a href=\"https:\/\/twitter.com\/backwoods?ref_src=twsrc%5Etfw\">@backwoods<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/t.co\/RsyYdRfm5q\">pic.twitter.com\/RsyYdRfm5q<\/a><\/p>&mdash; Nils diZington (@hc_diZee) <a href=\"https:\/\/twitter.com\/hc_diZee\/status\/1049289300939087877?ref_src=twsrc%5Etfw\">8. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "71",
+				"date": "9.10.2018",
+				"header": "9.10.2018 - 22:07",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Hier noch das finale Ergebnis der offiziellen Abstimmung an der die ganze Menschheit beteiligt war. <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a><a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> <a href=\"https:\/\/twitter.com\/SluggerflyDev?ref_src=twsrc%5Etfw\">@SluggerflyDev<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/MAGerfurt?src=hash&amp;ref_src=twsrc%5Etfw\">#MAGerfurt<\/a> <a href=\"https:\/\/twitter.com\/mag_erfurt?ref_src=twsrc%5Etfw\">@mag_erfurt<\/a> <a href=\"https:\/\/twitter.com\/IndieArenaBooth?ref_src=twsrc%5Etfw\">@IndieArenaBooth<\/a> <a href=\"https:\/\/t.co\/d2ULqxOAxG\">pic.twitter.com\/d2ULqxOAxG<\/a><\/p>&mdash; Utz Stauder \uD83C\uDF56 @ludopium (@utzstauder) <a href=\"https:\/\/twitter.com\/utzstauder\/status\/1049753116260933633?ref_src=twsrc%5Etfw\">9. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			},
+			{
+				"id": "72",
+				"date": "11.10.2018",
+				"header": "11.10.2018 - 12:16",
+				"text": "",				
+				"embeddedTweet": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"en\" dir=\"ltr\">Blood Party update will be online soon. Some strange textures appeared. How could this happen??? <a href=\"https:\/\/twitter.com\/pixel_maniacs?ref_src=twsrc%5Etfw\">@pixel_maniacs<\/a> <a href=\"https:\/\/twitter.com\/tweetingwoods?ref_src=twsrc%5Etfw\">@tweetingwoods<\/a> <a href=\"https:\/\/twitter.com\/ludopium?ref_src=twsrc%5Etfw\">@ludopium<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/deutscherentwicklerbeef?src=hash&amp;ref_src=twsrc%5Etfw\">#deutscherentwicklerbeef<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/indiestrolche?src=hash&amp;ref_src=twsrc%5Etfw\">#indiestrolche<\/a> <a href=\"https:\/\/t.co\/cLCpFdw2LT\">pic.twitter.com\/cLCpFdw2LT<\/a><\/p>&mdash; Sluggerfly (@SluggerflyDev) <a href=\"https:\/\/twitter.com\/SluggerflyDev\/status\/1050329367321096192?ref_src=twsrc%5Etfw\">11. Oktober 2018<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n"
+			}
+			]
 	}
 	]
 }
+
+

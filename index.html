@@ -56,12 +56,12 @@
 		function loadUser() {
 			$.get('template_beef.mst', function(template) {
 				$.get("beef.data", function( data ) {
-					console.log(data);
+					//console.log(data);
 					var jObj = JSON.parse(data);
 					var rendered = Mustache.render(template, jObj);				
 					$('#target').html(rendered);
-					console.log(template);
-					console.log(rendered);
+					//console.log(template);
+					//console.log(rendered);
 				});
 				
 			});
