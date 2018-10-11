@@ -39,9 +39,14 @@
 	<script type="text/javascript" src="inc/colorbox.js"></script>
 	<script type="text/javascript" src="js/timeliner.js"></script>
 	<script type="text/javascript" src="js/mustache.js"></script>
+	<script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	
 	<script>
 		
+
+		function loadTwitterWidgets() {
+			twttr.widgets.load();
+		}
 		
 		function generateTimeline() {
 			$.timeliner({});
@@ -49,12 +54,14 @@
 				timelineContainer: '#timeline-js',
 				timelineSectionMarker: '.milestone',
 				oneOpen: true,
-				startState: 'flat',
+				startState: 'open',
 				expandAllText: '+ Show All',
+				startOpen: ['.start-open'],
 				collapseAllText: '- Hide All'
 			});
 			// Colorbox Modal
 			$(".CBmodal").colorbox({inline:true, initialWidth:100, maxWidth:682, initialHeight:100, transition:"elastic",speed:750});
+			loadTwitterWidgets();
 		}
 		
 		function loadUser() {
@@ -64,6 +71,8 @@
 					var jObj = JSON.parse(data);
 					var rendered = Mustache.render(template, jObj);				
 					$('#target').html(rendered);
+
+					generateTimeline();
 					//console.log(template);
 					//console.log(rendered);
 				});
@@ -73,7 +82,7 @@
 		
 		$(document).ready(function() {
 			loadUser();
-			generateTimeline();
+			
 		});
 	</script>
 

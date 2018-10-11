@@ -4,9 +4,11 @@
 	<dl class="timeline-series">
 
 		{{#postings}}
-		<dt id="{{id}}" class="timeline-event"><a>{{header}}</a></dt>
+		<dt id="{{id}}" class="timeline-event start-open"><a>{{header}}</a></dt>
 		<dd class="timeline-event-content" id="{{id}}EX">
+			<!-- 
 			<h3>{{date}}</h3>
+			-->
 			<br class="clear">
 			{{text}}
 			<br class="clear">
