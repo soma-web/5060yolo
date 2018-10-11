@@ -2,6 +2,18 @@
 	"test": "holla",
 	"events": [
 	{
+			"name": "DOKOMI 2018",
+			"postings": [
+			{
+				"id": "1",
+				"date": "23.05.2018",
+				"header": "23.5.2018 - 19:22",
+				"text": "",	
+				"youtube": "https://www.youtube.com/embed/Kr2Lsm9xZ4k?start=346"
+				}
+			]
+	},
+	{
 			"name": "GAMESCOM 2018",
 			"postings": [
 			{
