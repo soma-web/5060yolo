@@ -10,3 +10,9 @@ steps:
   image: golang
   commands:
   - echo luku
+  
+trigger:
+  branch:
+  - master
+  event:
+  - push
